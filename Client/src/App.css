@@ -1,0 +1,22 @@
+.header{
+  width: 100vw;
+  height: 10vh;
+  background-color: royalblue;
+  color: white;
+  text-align: center;
+}
+.footer{
+  width: 100vw;
+  height: 5vh;
+  background-color: royalblue;
+  color: white;
+  text-align: center;
+}
+.content{
+  width: 100vw;
+  height: 85vh;
+  background-color: cyan;
+  color: black;
+  text-align: center;
+  overflow-y:scroll;
+}
